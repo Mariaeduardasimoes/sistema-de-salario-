@@ -1,1 +1,1 @@
-# sistema-de-salario-
+# sistema-de-salario
