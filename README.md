@@ -1,7 +1,7 @@
 # Calculadora de Salário de Funcionário
 
 Este é um código simples em PHP que calcula o salário final de um funcionário com base nas vendas semanais e totais.
-![imagem](cauculador/cauculador.png)
+![imagem](cauculador.png)
 
 ## Instruções de Uso
 
